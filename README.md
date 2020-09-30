@@ -1,2 +1,4 @@
 # ML-code-using-MNIST
-ML code using Fashion MNIST data set
+ML code using MNIST data set
+
+My 2nd ML code
